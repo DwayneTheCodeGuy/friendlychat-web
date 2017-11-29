@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "firebase login": "portfolio-d4fa3",
+    "firebase use --add": "portfolio-d4fa3",
+    "firebase serve": "codelabs-38000"
+  }
+}
